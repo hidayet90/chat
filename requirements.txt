@@ -1,0 +1,10 @@
+streamlit
+seleniumbase
+webdriver-manager
+PyPDF2
+langchain
+requests
+chromedriver-autoinstaller
+openai
+tiktoken
+faiss-cpu
